@@ -2,5 +2,6 @@
 
 * [Introduction](README.md)
 * [Movies](movies-1/README.md)
-  * [Favourite Directors](movies-1/favourite-directors.md)
+  * [Directors](movies-1/favourite-directors.md)
+* [Privacy Settings](privacy.md)
 
