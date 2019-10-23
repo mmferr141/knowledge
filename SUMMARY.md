@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Why i created this wiki](README.md)
+* [Why?](README.md)
 
 ## Movies
 

@@ -1,4 +1,4 @@
-# Why i created this wiki
+# Why?
 
 There are a couple of reasons i can list:
 
