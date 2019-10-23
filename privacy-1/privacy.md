@@ -28,8 +28,6 @@ description: >-
 
 _Download a file with data like bookmarks, mails, contacts, Google Drive files, search history, local history, youtube history, photos taken with your smartphone, shopped items ..._ [https://google.com/takeout](https://google.com/takeout)
 
-
-
 ### Facebook
 
 #### Download all the data
