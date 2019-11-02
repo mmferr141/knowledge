@@ -5,4 +5,5 @@
   * [Directors](movies-1/favourite-directors.md)
 * [Privacy](privacy-1/README.md)
   * [Privacy Settings](privacy-1/privacy.md)
+* [Podcasts](podcasts.md)
 

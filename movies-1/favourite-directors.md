@@ -1,12 +1,12 @@
 # Directors
 
-Each director has his style. When I was younger I used to find Tim Burton one of the best because of my fascination with obscure fantasy. Nowadays I think Burton is trying to maintain his popularity by exploring the same themes, creating "not so spectacular" movies like _A Nightmare Before Christmas_ or _Edward Scissorhands._ 
+These directors can create beautiful pictures in motion that is pleasurable to the eye of every viewer and at the same time maintain the emotional impact and a coherent subject within the frame of the story. Almost every movie I watch from any of these mentioned mark me to the point of changing my experience with the cinema and sometime the world.
 
-In the list below you can find my favorite directors and their best films:
+In the list below you can find my favorite directors and their best works:
 
-* Park Chan-wook \| _Thirst_ and _Handmaiden_
+* Park Chan-wook \| _Thirst, Oldboy_ and _Handmaiden_
 * Paul Thomas Anderson \| _There Will Be Blood_ and _Phantom Thread_
-* Bong Joon-ho \| _Parasite_
+* Bong Joon-ho \| _Parasite and Mother_
 * Yorgos Lanthimos \| _The Lobster_
 
 
