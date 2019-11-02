@@ -6,7 +6,7 @@ You can visit my [letterboxd profile](https://letterboxd.com/O_Barbas/) where yo
 
 ### Links
 
-* [**Curated List by Jung Sung-il \| A Guide to Cinephilia**](www.reddit.com/r/TrueFilm/comments/bdk9zo/a_guide_to_cinephilia_140_films_every_aspiring/)\*\*\*\*
+* \*\*\*\*[**Curated List by Jung Sung-il \| A Guide to Cinephilia**](https://www.reddit.com/r/TrueFilm/comments/bdk9zo/a_guide_to_cinephilia_140_films_every_aspiring/)\*\*\*\*
 
 
 
