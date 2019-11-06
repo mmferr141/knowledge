@@ -23,7 +23,8 @@ So, what's the plan to change habits? Here we go:
 * [Fogg Method](https://www.foggmethod.com/)
 * [Tiny Habits](https://www.tinyhabits.com/)
 * [The Fogg behaviour grid helps to understand 15 types of behaviours. For each behaviour, there's a different type of approach.](https://www.behaviorgrid.org/)
-* ["The Fogg Behaviour Model shows that three elements must converge at the same moment for a behavior to occur: Motivation, Ability, and a Prompt. When a behavior does not occur, at least one of those three elements is missing."](https://www.behaviormodel.org/)
+* [The Behaviour Wizard](http://www.behaviorwizard.org/wp/)
+* [The Fogg Behaviour Model ](https://www.behaviormodel.org/)
 * [Habits by Stojanow](https://wiki.stojanow.com/habits)
 
 
