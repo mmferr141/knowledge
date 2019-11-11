@@ -12,7 +12,7 @@ Depending mainly on motivation to change habits is depending on a resource whose
 
 ### What's the plan?
 
-So, what's the plan to change habits? Here we go:
+So, what's the plan to change habits?
 
 1. Define your habit as **tiny**.
 2. Do it after a recurrent event. E.g: After dinner. 
