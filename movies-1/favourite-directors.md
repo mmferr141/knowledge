@@ -1,6 +1,6 @@
 # Directors
 
-These directors can create beautiful pictures in motion that is pleasurable to the eye of every viewer and at the same time maintain the emotional impact and a coherent subject within the frame of the story. Almost every movie I watch from any of these mentioned mark me to the point of changing my experience with the cinema and sometime the world.
+These directors can create beautiful pictures in motion that are pleasurable to the eye of everyone and at the same time maintain the emotional impact and a coherent subject within the frame of the story. Almost every movie I watch from any of these mentioned mark me to the point of changing my experience with cinema and sometimes the world.
 
 In the list below you can find my favorite directors and their best works:
 
