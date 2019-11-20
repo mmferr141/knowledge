@@ -7,5 +7,6 @@
 * [Privacy](privacy/README.md)
   * [Privacy Settings](privacy/privacy.md)
 * [Podcasts](podcasts.md)
+* [Productivity](productivity.md)
 * [Habits](habits.md)
 
