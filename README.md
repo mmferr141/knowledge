@@ -9,7 +9,7 @@
 
 This list will get way bigger, trust me...
 
-## Interesting knowledge bases
+## Interesting Knowledge Bases
 
 A list of interesting knowledge bases can be found [here](https://github.com/RichardLitt/meta-knowledge).
 
