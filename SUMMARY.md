@@ -11,4 +11,6 @@
 * [Habits](habits.md)
 * [Front-end](front-end/README.md)
   * [CSS Snippets](front-end/css-snippets.md)
+* [Music](music/README.md)
+  * [Learning](music/learning.md)
 
