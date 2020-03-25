@@ -6,7 +6,7 @@ description: >-
 
 # Tracking
 
-* [Simplenote](https://simplenote.com/) - A minimalistic app for taking notes. 
+* [Simplenote](https://simplenote.com/) - A simple app for taking notes. 
 * \*\*\*\*[Trello](https://trello.com) - Perfect to keep track of almost anything utilizing the kanban paradigm. 
 * [Feedly](https://feedly.com/i/my) - Multiplatform feed aggregator. It's always useful to keep all my source in a single platform that i can use anywhere.
 * [Pocket](https://app.getpocket.com/) - A platform for article management I use with the firefox extension to save my future readings. 
