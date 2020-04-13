@@ -13,4 +13,7 @@
   * [CSS Snippets](front-end/css-snippets.md)
 * [Music](music/README.md)
   * [Learning](music/learning.md)
+* [Docker](docker/README.md)
+  * [Docker commands](docker/docker-commands.md)
+  * [Dockerfile template](docker/dockerfile-template.md)
 
