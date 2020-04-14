@@ -16,4 +16,6 @@
 * [Docker](docker/README.md)
   * [Docker commands](docker/docker-commands.md)
   * [Dockerfile template](docker/dockerfile-template.md)
+  * [Docker compose commands](docker/docker-compose-commands.md)
+  * [Docker composer template](docker/docker-composer-template.md)
 
