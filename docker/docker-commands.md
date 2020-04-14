@@ -8,18 +8,6 @@ sudo docker run \[image\] \[command\]
 
 sudo docker run redis redis-server
 
-### Run a container and show output
-
-sudo docker run -a \[image\] \[command\] 
-
-sudo docker run -a redis redis-server
-
-### Run a container with input open
-
-sudo docker run -it \[image\] \[command\] 
-
-sudo docker run -it redis sh
-
 ### Create a container
 
 sudo docker create \[image\] \[command\] 
